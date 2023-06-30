@@ -4,23 +4,36 @@
 
 
 ## Table of Contents
-* [General Info](What is Lending Club?
-An online peer-to-peer lending platform connecting borrowers and investors. LendingClub revolutionizes lending by offering accessible loans to individuals and small businesses. How?
-Borrower:  Applies online, undergo credit assessment, and have their loan    
-                   requests listed on the platform. 
+* (Data Exploration)
+* (Data Transformation )
+* (Data Analysis)
+* (Actionable Insights)
 
-Investors: Diversify portfolios by funding loans based on risk profiles.)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](Python, Jupyter Notebook, Git)
+* [Conclusions](Insights into factors relating to bad loan )
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- What is Lending Club?
+- An online peer-to-peer lending platform connecting borrowers and investors. LendingClub - revolutionizes lending by offering accessible loans to individuals and small      
+- businesses.
+- How?
+- Borrower:  Applies online, undergo credit assessment, and have their loan    
+             requests listed on the platform. 
+- Investors: Diversify portfolios by funding loans based on risk profiles
+
+
 - What is the background of your project?
+- Using data available from Lending Club, we are performing Exploration, Cleaning,  
+  analysis an trying to derive insights
+
 - What is the business probem that your project is trying to solve?
+- Finding factors that can predict risky loans 
+
 - What is the dataset that is being used?
+- Loans.csv from Lending Club
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -34,21 +47,20 @@ Investors: Diversify portfolios by funding loans based on risk profiles.)
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - PANDAS 
+- library - MATPLOTLIB 
+- library - SEABORN
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was done in collaboration between Arijit Sengupta and Pravin Gorlewar
+- This project was based on [EDA](https://www.upgrad.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [sengupta-arijit-rij@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
