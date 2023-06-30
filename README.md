@@ -17,26 +17,23 @@
 ## General Information
 #
 ## What is Lending Club?
-### An online peer-to-peer lending platform connecting borrowers and investors.   
-### LendingClub - revolutionizes lending by offering accessible loans to individuals and ### small businesses.
+- An online peer-to-peer lending platform connecting borrowers and investors.LendingClub  revolutionizes lending by offering accessible loans to individuals and ### small businesses.
 #
 #
 ### How?
-#
-### Borrower:  Applies online, undergo credit assessment, and have their loan requests listed on the platform. 
-### Investors: Diversify portfolios by funding loans based on risk profiles
+- Borrower:  Applies online, undergo credit assessment, and have their loan requests listed on the platform. 
+- Investors: Diversify portfolios by funding loans based on risk profiles
 #
 #
 ## What is the background of your project?
-#
-### Using data available from Lending Club, we are performing Exploration, Cleaning,  analysis an trying to derive insights
+- Using data available from Lending Club, we are performing Exploration, Cleaning,  analysis an trying to derive insights
 #
 
 ## What is the business probem that your project is trying to solve?
-### Finding factors that can predict risky loans 
+- Finding factors that can predict risky loans 
 #
 ## What is the dataset that is being used?
-### Loans.csv from Lending Club
+- Loans.csv from Lending Club
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 #
