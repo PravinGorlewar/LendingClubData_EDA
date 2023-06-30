@@ -1,9 +1,15 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club- A Case Study
+> Unveiling loan default patterns and implications in lending practices.
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Info](What is Lending Club?
+An online peer-to-peer lending platform connecting borrowers and investors. LendingClub revolutionizes lending by offering accessible loans to individuals and small businesses. How?
+Borrower:  Applies online, undergo credit assessment, and have their loan    
+                   requests listed on the platform. 
+
+Investors: Diversify portfolios by funding loans based on risk profiles.)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
